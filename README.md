@@ -1,5 +1,7 @@
 # AI Educational Assistant Agent
 
+![EduAgent UI](docs/eduagentui03.png)
+
 ## Overview
 
 This repository is a demo MVP of an automated educational assistant that:
