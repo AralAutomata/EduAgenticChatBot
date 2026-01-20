@@ -1,0 +1,162 @@
+[
+  {
+    "id": "S001",
+    "name": "Ava Martinez",
+    "email": "ava.martinez@example.com",
+    "grades": [
+      { "subject": "Math", "score": 92 },
+      { "subject": "English", "score": 88 },
+      { "subject": "Science", "score": 94 },
+      { "subject": "History", "score": 85 }
+    ],
+    "participationScore": 9,
+    "assignmentCompletionRate": 96,
+    "teacherNotes": "Shows strong curiosity in labs and often helps peers.",
+    "performanceTrend": "improving",
+    "lastAssessmentDate": "2024-09-10"
+  },
+  {
+    "id": "S002",
+    "name": "Liam Chen",
+    "email": "liam.chen@example.com",
+    "grades": [
+      { "subject": "Math", "score": 78 },
+      { "subject": "English", "score": 82 },
+      { "subject": "Science", "score": 75 },
+      { "subject": "History", "score": 80 }
+    ],
+    "participationScore": 6,
+    "assignmentCompletionRate": 84,
+    "teacherNotes": "Quiet in class but submits solid written work.",
+    "performanceTrend": "stable",
+    "lastAssessmentDate": "2024-09-08"
+  },
+  {
+    "id": "S003",
+    "name": "Noah Patel",
+    "email": "noah.patel@example.com",
+    "grades": [
+      { "subject": "Math", "score": 65 },
+      { "subject": "English", "score": 72 },
+      { "subject": "Science", "score": 68 },
+      { "subject": "History", "score": 70 }
+    ],
+    "participationScore": 5,
+    "assignmentCompletionRate": 70,
+    "teacherNotes": "Struggles with test anxiety; benefits from review sessions.",
+    "performanceTrend": "declining",
+    "lastAssessmentDate": "2024-09-07"
+  },
+  {
+    "id": "S004",
+    "name": "Sophia Nguyen",
+    "email": "sophia.nguyen@example.com",
+    "grades": [
+      { "subject": "Math", "score": 90 },
+      { "subject": "English", "score": 95 },
+      { "subject": "Science", "score": 92 },
+      { "subject": "History", "score": 89 }
+    ],
+    "participationScore": 10,
+    "assignmentCompletionRate": 98,
+    "teacherNotes": "Leads group discussions and presents confidently.",
+    "performanceTrend": "improving",
+    "lastAssessmentDate": "2024-09-09"
+  },
+  {
+    "id": "S005",
+    "name": "Ethan Johnson",
+    "email": "ethan.johnson@example.com",
+    "grades": [
+      { "subject": "Math", "score": 82 },
+      { "subject": "English", "score": 74 },
+      { "subject": "Science", "score": 79 },
+      { "subject": "History", "score": 76 }
+    ],
+    "participationScore": 7,
+    "assignmentCompletionRate": 88,
+    "teacherNotes": "Shows steady progress but needs to review writing structure.",
+    "performanceTrend": "stable",
+    "lastAssessmentDate": "2024-09-06"
+  },
+  {
+    "id": "S006",
+    "name": "Mia Rodriguez",
+    "email": "mia.rodriguez@example.com",
+    "grades": [
+      { "subject": "Math", "score": 88 },
+      { "subject": "English", "score": 91 },
+      { "subject": "Science", "score": 86 },
+      { "subject": "History", "score": 90 }
+    ],
+    "participationScore": 8,
+    "assignmentCompletionRate": 92,
+    "teacherNotes": "Consistent work ethic and asks thoughtful questions.",
+    "performanceTrend": "improving",
+    "lastAssessmentDate": "2024-09-11"
+  },
+  {
+    "id": "S007",
+    "name": "Lucas Brown",
+    "email": "lucas.brown@example.com",
+    "grades": [
+      { "subject": "Math", "score": 58 },
+      { "subject": "English", "score": 66 },
+      { "subject": "Science", "score": 60 },
+      { "subject": "History", "score": 62 }
+    ],
+    "participationScore": 4,
+    "assignmentCompletionRate": 65,
+    "teacherNotes": "Needs support with foundational skills and confidence.",
+    "performanceTrend": "declining",
+    "lastAssessmentDate": "2024-09-05"
+  },
+  {
+    "id": "S008",
+    "name": "Isabella Kim",
+    "email": "isabella.kim@example.com",
+    "grades": [
+      { "subject": "Math", "score": 83 },
+      { "subject": "English", "score": 90 },
+      { "subject": "Science", "score": 88 },
+      { "subject": "History", "score": 91 }
+    ],
+    "participationScore": 7,
+    "assignmentCompletionRate": 89,
+    "teacherNotes": "Strong reader; could speak up more in class.",
+    "performanceTrend": "stable",
+    "lastAssessmentDate": "2024-09-10"
+  },
+  {
+    "id": "S009",
+    "name": "Oliver Smith",
+    "email": "oliver.smith@example.com",
+    "grades": [
+      { "subject": "Math", "score": 72 },
+      { "subject": "English", "score": 68 },
+      { "subject": "Science", "score": 74 },
+      { "subject": "History", "score": 70 }
+    ],
+    "participationScore": 6,
+    "assignmentCompletionRate": 78,
+    "teacherNotes": "Capable but inconsistent with homework submission.",
+    "performanceTrend": "stable",
+    "lastAssessmentDate": "2024-09-04"
+  },
+  {
+    "id": "S010",
+    "name": "Chloe Davis",
+    "email": "chloe.davis@example.com",
+    "grades": [
+      { "subject": "Math", "score": 95 },
+      { "subject": "English", "score": 93 },
+      { "subject": "Science", "score": 97 },
+      { "subject": "History", "score": 90 }
+    ],
+    "participationScore": 9,
+    "assignmentCompletionRate": 99,
+    "teacherNotes": "Excels academically and mentors peers in study sessions.",
+    "performanceTrend": "improving",
+    "lastAssessmentDate": "2024-09-12"
+  }
+]

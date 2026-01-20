@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "strict": true
+  },
+  "nodeModulesDir": "auto",
+  "imports": {
+    "@std/dotenv": "jsr:@std/dotenv@0.224.0",
+    "@std/path": "jsr:@std/path@0.224.0",
+    "@db/sqlite": "jsr:@db/sqlite@0.12.0",
+    "@langchain/openai": "npm:@langchain/openai@0.2.7",
+    "@langchain/core": "npm:@langchain/core@0.2.8"
+  },
+  "tasks": {
+    "start": "DENO_DIR=.deno_dir deno run --allow-read --allow-env --allow-net --allow-write --allow-ffi src/run_with_tool.ts",
+    "serve": "DENO_DIR=.deno_dir deno run --allow-read --allow-env --allow-net --allow-write --allow-ffi src/http_server.ts",
+    "test": "deno test"
+  }
+}
