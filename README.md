@@ -40,11 +40,15 @@ cp .env.example .env
 
 2) Start the Deno API server (terminal 1):
 
+![Deno Serve](docs/denoserve.png)
+
 ```bash
 deno task serve
 ```
 
 3) Start the UI (terminal 2):
+
+![BunRun Dev](docs/bunrun.png)
 
 ```bash
 cd apps/chat-ui
@@ -155,6 +159,8 @@ IDs matter:
 - Ensure your student IDs in `students.json` match what you expect to use in chat (e.g. `S001`, `S002`, ...).
 
 ## Execution
+
+![DenoTask Start](docs/taskstart.png)
 
 ```bash
 deno task start
@@ -410,6 +416,8 @@ DENO_DIR=.deno_dir deno run --allow-read --allow-env --allow-net --allow-write -
 ```
 
 ## Output
+
+![Teacher Mail](docs/teachermail.png)
 
 Student emails contain positive observations, strengths, improvement areas, actionable strategies, goals, and encouragement. Teacher summaries include class statistics, strengths, students requiring attention, and recommended actions.
 
